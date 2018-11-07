@@ -1,1 +1,1 @@
-All scripts are in Assets/Scripts
+All scripts are in Assets/Scripts/ *.cs
