@@ -1,1 +1,1 @@
-# Gra_3
+All scripts are in Assets/Scripts
